@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\cy960\source\repos\router2\router2\main.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  router2.vcxproj -> C:\Users\cy960\source\repos\router2\Debug\router2.exe
